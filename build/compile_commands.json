@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/dp/Public/flappybird/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles/Flappybird.dir/src/main.cpp.o -c /Users/dp/Public/flappybird/src/main.cpp",
+  "file": "/Users/dp/Public/flappybird/src/main.cpp",
+  "output": "CMakeFiles/Flappybird.dir/src/main.cpp.o"
+}
+]
