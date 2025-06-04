@@ -1,3 +1,7 @@
 /Users/dp/Public/flappybird/build/CMakeFiles/Flappybird.dir
 /Users/dp/Public/flappybird/build/CMakeFiles/edit_cache.dir
 /Users/dp/Public/flappybird/build/CMakeFiles/rebuild_cache.dir
+/Users/dp/Public/flappybird/build/CMakeFiles/list_install_components.dir
+/Users/dp/Public/flappybird/build/CMakeFiles/install.dir
+/Users/dp/Public/flappybird/build/CMakeFiles/install/local.dir
+/Users/dp/Public/flappybird/build/CMakeFiles/install/strip.dir

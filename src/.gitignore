@@ -1,0 +1,24 @@
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+.cache
+
+# macOS system files
+.DS_Store
+
+# Xcode files
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdata/
+*.xcodeproj/
+
+# Compiled binaries and objects
+*.o
+*.obj
+*.so
+*.dylib
+*.exe
+*.out
