@@ -62,8 +62,3 @@ You'll need the following installed on your system:
 * Press the **arrow up** or **click** to make the bird flap its wings and go higher.
 * Navigate the bird through the gaps in the pipes to score points.
 * Avoid colliding with the pipes or the ground.
-* Try to beat your high score!
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
